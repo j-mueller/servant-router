@@ -20,7 +20,7 @@ library
                      , servant        >= 0.7 && < 0.11
                      , text           == 1.2.*
                      , http-api-data  >= 0.2 && < 0.5
-                     , http-types     == 0.9.*
+                     , http-types     == 0.12.*
                      , uri-bytestring == 0.2.*
                      , bytestring     == 0.10.*
   default-language:    Haskell2010
